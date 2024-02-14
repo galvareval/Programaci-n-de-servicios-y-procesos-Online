@@ -1,0 +1,2 @@
+Primero ejecutar servidor luego cliente.
+En el segundo ejercicio hay creado un fichero : test.txt para hacer la prueba del programa
